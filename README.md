@@ -39,3 +39,8 @@ function sign(name){
     return "Welcome"
 }
 ```
+
+**Exemplo de tabela**
+Propriedade | Descrição | Resultado
+----------- | ----------| ---------
+nome | usuário | tipo de trabalho
