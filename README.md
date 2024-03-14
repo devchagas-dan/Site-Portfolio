@@ -28,3 +28,10 @@ _Do **zero** ao profissional_
 >Este é um blockquote, usado para destacar alguma área.
 >
 >Segunda área destacada
+
+**Incluir código no Markdown**
+```
+function sign(name){
+    return "Welcome"
+}
+```
