@@ -24,3 +24,7 @@ _Do **zero** ao profissional_
 
 2. Aprendendo sobre branches.
 3. GIT avançado.
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda área destacada
