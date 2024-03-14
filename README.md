@@ -7,6 +7,10 @@
 Another day in **paradise**.
 _Do **zero** ao profissional_
 
+**Ultimas updates**
+- [] Site responsivo
+- [x] Login Facebook
+
 ### Rede social:
 [Instagram](https://instagram.com)
 
