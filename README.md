@@ -30,7 +30,7 @@ _Do **zero** ao profissional_
 >Segunda área destacada
 
 **Incluir código no Markdown**
-```
+```js
 function sign(name){
     return "Welcome"
 }
