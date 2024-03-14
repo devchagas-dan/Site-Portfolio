@@ -19,5 +19,6 @@ _Do **zero** ao profissional_
 
 1. Começando com GIT.
         a. o que é GIT?
+        1. GIT é importante?
 2. Aprendendo sobre branches.
 3. GIT avançado.
