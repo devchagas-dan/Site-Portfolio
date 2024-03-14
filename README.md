@@ -18,5 +18,7 @@ _Do **zero** ao profissional_
 * Fumacinha
 
 1. Começando com GIT.
+        a. O que é git?
+        b. Instalando Git na máquina
 2. Aprendendo sobre branches.
 3. GIT avançado.
