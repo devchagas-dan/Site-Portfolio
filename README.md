@@ -8,4 +8,11 @@ Another day in **paradise**.
 _Do **zero** ao profissional_
 
 ### Rede social:
-[Instagram](https: //instagram.com)
+[Instagram](https://instagram.com)
+
+[Youtube](https://youtube.com)
+
+* Daniela
+* Maurício
+* Tom
+* Fumacinha
