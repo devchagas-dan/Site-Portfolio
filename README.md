@@ -8,7 +8,7 @@ Another day in **paradise**.
 _Do **zero** ao profissional_
 
 **Ultimas updates**
-- [] Site responsivo
+- [ ] Site responsivo
 - [x] Login Facebook
 
 ### Rede social:
