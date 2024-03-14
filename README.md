@@ -16,3 +16,7 @@ _Do **zero** ao profissional_
 * Maurício
 * Tom
 * Fumacinha
+
+1. Começando com GIT.
+2. Aprendendo sobre branches.
+3. GIT avançado.
