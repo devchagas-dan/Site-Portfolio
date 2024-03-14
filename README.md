@@ -18,7 +18,7 @@ _Do **zero** ao profissional_
 * Fumacinha
 
 1. Começando com GIT.
-    a. O que é GIT?
+    1. O que é GIT?
         a. o que é GIT?
         1. GIT é importante?
 
